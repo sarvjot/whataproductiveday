@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/productivity_sheets/static/css/main.db27f9cd.css",
+    "main.js": "/productivity_sheets/static/js/main.4c4e33b9.js",
+    "index.html": "/productivity_sheets/index.html",
+    "main.db27f9cd.css.map": "/productivity_sheets/static/css/main.db27f9cd.css.map",
+    "main.4c4e33b9.js.map": "/productivity_sheets/static/js/main.4c4e33b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db27f9cd.css",
+    "static/js/main.4c4e33b9.js"
+  ]
+}
